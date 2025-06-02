@@ -1,6 +1,6 @@
 # 👽 RASJ 👨‍💻  
 
-## 💡 ~/code/namespaces/misc
+## 💡 [~/code/namespaces/](https://short.localhost/~/code/namespaces)misc
 
 - Be honest
 - Be good
